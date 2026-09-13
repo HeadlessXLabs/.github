@@ -1,10 +1,4 @@
 <p align="center">
-  <a href="https://github.com/HeadlessXLabs/hexium-browser">
-    <img src="assets/png/hexium-128.png" width="72" height="72" alt="Hexium">
-  </a>
-</p>
-
-<p align="center">
   <img src="assets/banners/headlessxlabs-banner.png" alt="HeadlessX Labs — Browsers that look like Chrome. Scrapers that stay quiet." width="100%">
 </p>
 
@@ -23,11 +17,7 @@ Sites should see Chrome. Your scripts stay Playwright.
 
 ## Start here
 
-<p align="center">
-  <a href="https://github.com/HeadlessXLabs/hexium-browser"><img src="assets/png/hexium-64.png" width="48" height="48" alt="Hexium"></a>
-</p>
-
-[**hexium-browser**](https://github.com/HeadlessXLabs/hexium-browser) is public. `launch()` in. Chrome 151 out.
+[<img src="assets/png/hexium-64.png" width="28" height="28" alt="hexium-browser" valign="middle"> **hexium-browser**](https://github.com/HeadlessXLabs/hexium-browser) is public. `launch()` in. Chrome 151 out.
 
 ```bash
 pip install hexium-browser
