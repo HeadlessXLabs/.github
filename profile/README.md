@@ -1,4 +1,10 @@
 <p align="center">
+  <a href="https://github.com/HeadlessXLabs/hexium-browser">
+    <img src="assets/png/hexium-128.png" width="72" height="72" alt="Hexium">
+  </a>
+</p>
+
+<p align="center">
   <img src="assets/banners/headlessxlabs-banner.png" alt="HeadlessX Labs — Browsers that look like Chrome. Scrapers that stay quiet." width="100%">
 </p>
 
@@ -10,13 +16,18 @@
   <a href="https://pypi.org/project/hexium-browser/"><img src="https://img.shields.io/pypi/v/hexium-browser?style=flat-square&label=hexium-browser" alt="hexium-browser on PyPI"></a>
 </p>
 
-**Solo founder. Solo developer.** [Saifullah](https://saify.me) · [hello@saify.me](mailto:hello@saify.me)
+<p align="center"><strong>Solo founder. Solo developer.</strong><br>
+<a href="https://saify.me">Saifullah</a> · <a href="mailto:hello@saify.me">hello@saify.me</a></p>
 
-You hire this lab for one job: sites should see Chrome. Your scripts should still be Playwright.
+Sites should see Chrome. Your scripts stay Playwright.
 
 ## Start here
 
-[**hexium-browser**](https://github.com/HeadlessXLabs/hexium-browser) is public now. `launch()` in. Chrome 151 out.
+<p align="center">
+  <a href="https://github.com/HeadlessXLabs/hexium-browser"><img src="assets/png/hexium-64.png" width="48" height="48" alt="Hexium"></a>
+</p>
+
+[**hexium-browser**](https://github.com/HeadlessXLabs/hexium-browser) is public. `launch()` in. Chrome 151 out.
 
 ```bash
 pip install hexium-browser
